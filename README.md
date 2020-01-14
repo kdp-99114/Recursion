@@ -6,20 +6,20 @@ Example :
 
 Output : 
 
-(())
+( ( ) )
 
-()()
+( )( )
 
 2-) If user enters 3 then it will generate the following :
 
 Output : 
 
-((()))
+( ( ( ) ) )
 
-(()())
+( ( ) ( ) )
 
-(())()
+( ( ) ) ( )
 
-()(())
+( ) ( ( ) )
 
-()()()
+( ) ( ) ( )
